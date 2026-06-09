@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Nicolas, a former Systems and Computing Engineering student at Universidad de los Andes.
+
+Currently I'm working on my shipping skills while building my own startup called "pikit" and working on first AI startups. Also I tend to assist to hackathons.
+
+I just love creating and shipping solutions.
+
 <!--
 **NeuralKaizen/NeuralKaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
