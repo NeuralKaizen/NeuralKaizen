@@ -4,6 +4,8 @@ I'm Nicolas, a former Systems and Computing Engineering student at Universidad d
 
 Currently I'm working on my shipping skills while building my own startup called "pikit" and contributing software features, product design modelling and architecture advise to AI first startups. Also I tend to assist to hackathons.
 
+If you are looking for someone to create something or just to help you with any project you have, send me a DM in LinkedIn (my profile link is displayed).
+
 I just love creating and shipping solutions.
 
 <!--
