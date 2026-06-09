@@ -2,7 +2,7 @@
 
 I'm Nicolas, a former Systems and Computing Engineering student at Universidad de los Andes.
 
-Currently I'm working on my shipping skills while building my own startup called "pikit" and working on first AI startups. Also I tend to assist to hackathons.
+Currently I'm working on my shipping skills while building my own startup called "pikit" and contributing software features, product design modelling and architecture advise to AI first startups. Also I tend to assist to hackathons.
 
 I just love creating and shipping solutions.
 
